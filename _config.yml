@@ -1,0 +1,45 @@
+
+title: TopoInVis 2022
+email: julien.tierny@sorbonne-universite.fr
+baseurl: ""
+url: "http://topoinvis.org"
+
+# --- site config ---
+
+description: > 
+  IEEE Workshop on Topological Data Analysis and Visualization, in conjunction with IEEE VIS 2022, Oklahoma City, USA, October 16, 2022
+
+navigation:
+ - title: Home
+   url: index.html
+ - title: Program
+   url: program.html
+ - title: Call for Papers
+   url: call-for-papers.html
+ - title: Organization
+   url: organization.html
+
+# --- end site config ---
+
+# build settings
+markdown: kramdown
+
+plugins: 
+#  - jekyll-last-modified-at
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - misc
+  - archive/previous
+  - s3_website.yml
+  - .travis.yml
+  - vendor
+
+collections: 
+  pages:
+    output: true
+    permalink: /:path:output_ext
+
