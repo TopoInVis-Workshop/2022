@@ -11,6 +11,8 @@ Typical challenges of topology-based techniques include dealing with large,
 complex, and time-dependent data, characterizing noise and uncertainty, as well 
 as developing efficient and robust numerical methods.
 
+<img id="teasers" src="assets/teaser.png" />
+
 TopoInVis is a well-established workshop in the field of topological methods in 
 visualization. It welcomes fully developed visualization solutions based on 
 topology as well as more foundational work in the field of topological data 
