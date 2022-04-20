@@ -43,3 +43,5 @@ collections:
     output: true
     permalink: /:path:output_ext
 
+
+theme: jekyll-theme-cayman
