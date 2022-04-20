@@ -11,7 +11,7 @@ title: Organization
 ## Workshop Chairs
 
 Talha Bin Masood
-: Link&ouml;ing University
+: Link&ouml;ping University
 
 Vijay Natarajan
 : Indian Institute of Science, Bangalore
@@ -26,19 +26,32 @@ Julien Tierny
 <div class="right">
 ## Steering Committee
 
-Vijay Natarajan
-: Indian Institute of Science, Bangalore
+Bei Wang (Chair)
+: University of Utah
 
 Paul Rosen (Co-chair)
 : University of South Florida
 
-Bei Wang (Chair)
-: University of Utah
+Roxana Bujack
+: Los Alamos National Laboratory
+
+Guoning Chen
+: University of Houston
+
+Leila De Floriani
+: University of Maryland
+
+Tobias G&uuml;nther
+: Friedrich-Alexander-University Erlangen-N&uuml;rnberg
+
+Vijay Natarajan
+: Indian Institute of Science, Bangalore
+
+Filip Sadlo	
+: Heidelberg University
 
 Julien Tierny
 : CNRS - Sorbonne Universit&eacute;
-
-...
 
 </div>
 
