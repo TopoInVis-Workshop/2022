@@ -3,80 +3,71 @@ layout: default
 title: Call for Papers
 ---
 
-# Call for Papers
+# Call for Contributions
 
-Contact: <...@precisionconference.com>
+Topological Data Analysis has become, over the last few years, an established framework 
+for the extraction and analysis of subtle structural patterns in complex data. It has been 
+successfully applied in a variety of application fields, including quantum chemistry, 
+astrophysics, fluid dynamics, combustion, material sciences, biology, and data science. 
+In particular, the genericity, efficiency, and robustness of topological methods have 
+made them particularly well suited for the multi-scale, interactive analysis and visualization 
+of the structural information of data.
 
-Topology-based methods are of increasing importance in visual analysis of data 
-from a wide variety of scientific domains, each involving its own challenges. 
-Typical challenges of topology-based techniques include dealing with large, 
-complex, and time-dependent data, characterizing noise and uncertainty, as well 
-as developing efficient and robust numerical methods. 
+Despite their rising mainstream popularity, topological methods still face a number of 
+challenges, including, for instance efficient computational methods for large-scale 
+time-varying data, the characterization of noise and uncertainty, or the support of 
+novel emerging data types such as ensemble data or high-dimensional point clouds.
 
+The IEEE VIS Workshop on Topological Data Analysis and Visualization aims at being an 
+inclusive forum for the fast dissemination of the latest results in theory, algorithms, 
+and applications of topological methods for the interactive and visual analysis of data. 
+This workshop is a remodeling of the established TopoInVis workshop series, with the goal 
+of being more diverse (in terms of applications) and inclusive (in terms of communities), 
+with a clear will to open to other members of the visualization community potentially 
+interested in topological methods, or experts in topological methods from other communities 
+willing to experiment with interactive and visual applications.
 
-TopoInVis is a well-established workshop in the field of topological methods in 
-visualization. It welcomes fully developed visualization solutions based on 
-topology as well as more foundational work in the field of topological data 
-analysis. Previously eight successful workshops have taken place in this series: 
-Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013, 
-Germany in 2015, Japan in 2017, and Sweden in 2019. This is the first workshop 
-to be held in conjunction with IEEE VIS 2022.
+## New in 2022 
+
+This year, in addition to full paper presentations, we will host a session of lightning 
+talks (approx. 5 minutes) for early-career researchers (Ph.D. students, post-docs, etc.) 
+to advertise their work to the community.
 
 ## Scope
 
-Workshop topics include:
-
-* scalar/vector/tensor/multi-field field topology
-* topology of point sets and cell complexes
-* theoretical models
-* combinatorial methods and robustness
-* multi-scale representation models
-* time-dependent methods
-* feature extraction
-* Lagrangian coherent structures
-* topology-based denoising and simplification
-* topological similarity and correlation
-* user interfaces and visualization
-* domain-specific interpretation of topological constructs and results
-* efficiency of topological algorithms
-* open implementations of topological algorithms
+Relevant topics include (but are not limited to):
+* Topological methods for the analysis and visualization of:
+  - High dimensional point cloud data
+  - Graph data 
+  - Scalar, vector, tensor, multi-field data
+  - Time-varying data
+  - Ensemble data
+  - Uncertain data
+* Topological methods for data science (dimensionality reduction, clustering, etc.)
+* Computational methods for topological data analysis and visualization
+* Software systems for topological data analysis and visualization
+* Visual analytic frameworks relying on topological methods
+* Applications of topological data analysis and visualization
 
 ## Submission
 
-The manuscripts should be formatted according to 
-[guidelines from IEEE VGTC](http://vgtc.org/publications/conference). 
-Submission of an abstract is required prior to submission of a paper. 
+We welcome contributions as regular papers in the 
+[IEEE VGTC format](http://vgtc.org/publications/conference) 
+(up to 9 pages of content, plus up to 2 pages of references), 
+as well as abstracts (at most 500 words) for early-career lightning talks.
+More detailed instructions for submission and further details will appear 
+here soon.
 
-Papers should have a maximum length of 9 pages with up to two (2) 
-additional pages allowed for only references (maximum total of 11 
-pages). Full papers may make contributions in techniques, systems, 
-applications, evaluations, or theory. The contributions of full papers 
-are reviewed based on their novelty, contribution, replicability, and 
-evaluation.
+Paper submissions will be peer-reviewed by an international program committee, 
+including experts in topological methods for scientific data, 
+information visualization, visual analytics, and machine learning. 
 
-## Proceedings
-
-The proceedings of the symposium will be published together with the VIS 
-proceedings and via the IEEE Xplore Digital Library. 
-
-## Best Paper
-
-The TopoInVis Program Committee will present a Best Paper award to the 
-authors whose submission is deemed the strongest according to the 
-reviewing criteria. This award will be announced in conjunction with VIS 2022. 
+Accepted papers will be published in the IEEE Xplore Digital Library.
 
 ## Important Dates
 
-Please note: all deadlines are firm and no extensions will be granted.
-
-Abstract Deadline (firm) 
-: June 21, 2022, 11:59 PM (AOE)
-
-Paper Submission (firm)
-: June 25, 2022, 11:59 PM (AOE)
-
-Author Notification
-: July 30, 2022
-
-Camera-Ready Deadline (firm)
-: August 15, 2022
+* June 21, 2022: abstract deadline for full papers
+* June 25, 2022: submission deadline for full papers
+* July 30, 2022: author notification
+* August 15, 2022: submission deadline for early-career lightning talk abstracts (500 words)
+* October 15-17, 2022: Workshop co-located with IEEE VIS
