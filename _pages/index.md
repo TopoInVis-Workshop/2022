@@ -5,20 +5,31 @@ title: Home
 
 # TopoInVis 2022 - Topological Data Analysis and Visualization
 
-Topology-based methods are of increasing importance in visual analysis of data 
-from a wide variety of scientific domains, each involving its own challenges. 
+Topological Data Analysis has become, over the last few years, an established 
+framework for the extraction and analysis of subtle structural patterns in complex data. 
+It has been successfully applied in a variety of application fields, including 
+quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, 
+biology, and data science. In particular, the genericity, efficiency, and robustness 
+of topological methods have made them particularly well suited for the multi-scale, 
+interactive analysis and visualization of the structural information of data.
 Typical challenges of topology-based techniques include dealing with large, 
 complex, and time-dependent data, characterizing noise and uncertainty, as well 
 as developing efficient and robust numerical methods.
 
 <img id="teasers" src="assets/teaser.png" />
 
-TopoInVis is a well-established workshop in the field of topological methods in 
-visualization. It welcomes fully developed visualization solutions based on 
-topology as well as more foundational work in the field of topological data 
-analysis. Previously eight successful workshops have taken place in this series: 
+The IEEE VIS Workshop on Topological Data Analysis and Visualization aims at being 
+an inclusive forum for the fast dissemination of the latest results in theory, 
+algorithms, and applications of topological methods for the interactive and visual 
+analysis of data. This workshop is a remodeling of the established TopoInVis workshop 
+series, with the goal of being more diverse (in terms of applications) and inclusive 
+(in terms of communities), with a clear will to open to other members of the visualization 
+community potentially interested in topological methods, or experts in topological methods 
+from other communities willing to experiment with interactive and visual applications.
+
+Previously eight successful workshops have taken place in this workshop series: 
 Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013, 
 Germany in 2015, Japan in 2017, and Sweden in 2019. This is the first workshop 
-to be held in conjunction with IEEE VIS 2022. 
+to be held in conjunction with IEEE VIS.
 
 To attend TopoInVis, please register through the [IEEE VIS website](http://ieeevis.org).
