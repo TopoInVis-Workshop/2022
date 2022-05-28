@@ -52,7 +52,7 @@ Relevant topics include (but are not limited to):
 ## Submission
 
 We welcome contributions as regular papers in the 
-[IEEE VGTC format](http://vgtc.org/publications/conference) 
+[IEEE VGTC format](https://tc.computer.org/vgtc/publications/conference/) 
 (up to 9 pages of content, plus up to 2 pages of references), 
 as well as abstracts (at most 500 words) for early-career lightning talks.
 More detailed instructions for submission and further details will appear 
