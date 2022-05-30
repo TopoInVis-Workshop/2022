@@ -23,6 +23,7 @@ Julien Tierny
 : CNRS - Sorbonne Universit&eacute;
 
 </div>
+
 <div class="right">
 ## Steering Committee
 
@@ -58,6 +59,89 @@ Julien Tierny
 <div class="left">
 ## Program Committee
 
-TBA.
+Tushar Athawale
+: Oak Ridge National Laboratory
 
-<!-- </div> -->
+Paul Bendich
+: Duke University
+  
+Harsh Bhatia
+: Lawrence Livermore National Laboratory
+  
+Roxana Bujack
+: Los Alamos National Laboratory
+  
+Mathieu Carri&egrave;re
+: Inria Sophia Antipolis
+  
+Guoning Chen
+: University of Houston
+  
+Leila De Floriani
+: University of Maryland
+  
+Harish Doraiswamy
+: Microsoft Research India
+  
+Tobias G&uuml;nther
+: Friedrich-Alexander-University Erlangen-N&uuml;rnberg
+  
+Mustafa Hajij
+: Santa Clara University 
+
+Ingrid Hotz
+: Link&ouml;ping University
+  
+Federico Iuricich
+: Clemson University
+  
+Vitaliy Kurlin
+: University of Liverpool
+  
+Joshua Levine
+: University of Arizona
+
+</div>
+  
+<div class="right">
+##
+Lars Linsen
+: Westf&auml;lische Wilhelms-Universit&auml;t M&uuml;nster
+  
+Jonas Lukasczyk
+: TU Kaiserslautern
+  
+Filip Sadlo
+: Heidelberg University
+  
+Tobias Schreck
+: Graz University of Technology
+  
+Martina Scolamiero
+: KTH Royal Institute of Technology
+  
+Martin Skrodzki
+: TU Delft
+  
+Jaya Sreevalsan Nair
+: International Institute of Information Technology, Bangalore
+  
+Brian Summa
+: Tulane University 
+  
+Alexandru Telea
+: Utrecht University
+  
+Bei Wang
+: University of Utah
+
+Yusu Wang
+: University of California, San Diego
+  
+Eugene Zhang
+: Oregon State University
+  
+Yue Zhang
+: Oregon State University
+
+</div>
