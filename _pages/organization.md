@@ -80,6 +80,9 @@ Guoning Chen
 Leila De Floriani
 : University of Maryland
   
+Pawe&#x0142; D&#x0142;otko
+: Mathematical Institute of the Polish Academy of Sciences
+  
 Harish Doraiswamy
 : Microsoft Research India
   
