@@ -1,6 +1,6 @@
 
 title: TopoInVis 2022
-email: julien.tierny@sorbonne-universite.fr
+email: topoinvis@ieeevis.org
 baseurl: ""
 url: "http://topoinvis.org"
 
@@ -16,6 +16,8 @@ navigation:
    url: program.html
  - title: Call for Papers
    url: call-for-papers.html
+ - title: Submission
+   url: submission.html
  - title: Organization
    url: organization.html
 

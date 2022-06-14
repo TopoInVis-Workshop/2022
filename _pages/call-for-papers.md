@@ -5,6 +5,8 @@ title: Call for Papers
 
 # Call for Contributions
 
+Contact: <topoinvis@ieeevis.org>
+
 Topological Data Analysis has become, over the last few years, an established framework 
 for the extraction and analysis of subtle structural patterns in complex data. It has been 
 successfully applied in a variety of application fields, including quantum chemistry, 
@@ -55,8 +57,7 @@ We welcome contributions as regular papers in the
 [IEEE VGTC format](https://tc.computer.org/vgtc/publications/conference/) 
 (up to 9 pages of content, plus up to 2 pages of references), 
 as well as abstracts (at most 500 words) for early-career lightning talks.
-More detailed instructions for submission and further details will appear 
-here soon.
+Detailed submission instructions can be found [here](../submission.html).
 
 Paper submissions will be peer-reviewed by an international program committee, 
 including experts in topological methods for scientific data, 
