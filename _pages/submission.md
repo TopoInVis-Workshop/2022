@@ -11,15 +11,16 @@ The paper submission portal is now open! For submission, go to the
 [PCS submission portal](https://new.precisionconference.com/vgtc).
 Create an account or login to your existing account. Then, go to the Submissions 
 tab and select Society 'VGTC', Conference 'VIS 2022' and Track 'VIS 2022 TopoInVis' 
-from the drop-down options lists. 
+from the drop-down options. 
 
 TopoInVis is accepting regular papers in the 
 [IEEE VGTC format](https://tc.computer.org/vgtc/publications/conference/). 
 The papers can be up to 9 pages of content, plus up to 2 additional pages of 
-references. However, we encourage submssion of shorter papers as well. 
+references. The submissions will be reviewed following a single-blind review 
+process by the members of our [international program committee](organization.html).
 
 Please note that submission of abstract is required prior to the submission 
-of a paper. The firm deadlines for submission are given below.
+of a paper. The firm deadlines for the submission are given below.
 
 # Important Dates
 
