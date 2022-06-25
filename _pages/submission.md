@@ -19,8 +19,11 @@ The papers can be up to 9 pages of content, plus up to 2 additional pages of
 references. The submissions will be reviewed following a single-blind review 
 process by the members of our [international program committee](organization.html).
 
-Please note that submission of abstract is required prior to the submission 
-of a paper. The firm deadlines for the submission are given below.
+The submission of abstract is required prior to the submission 
+of a paper. The deadlines for the submission are given below. Please note that the 
+paper submission deadline is now extended to June 28. If you notice a discrepency 
+in the manuscript submission deadline on the PCS submission portal, kindly ignore 
+it. The time and date specified here on the website are correct. 
 
 # Important Dates
 
@@ -29,7 +32,8 @@ of a paper. The firm deadlines for the submission are given below.
 June 21, 2022, 11:59 PM (AOE)
 : Abstract submission deadline
 
-June 25, 2022, 11:59 PM (AOE)
+<del>June 25, 2022, 11:59 PM (AOE)</del>
+June 28, 2022, 11:59 PM (AOE)
 : Paper submission deadline
 
 July 30, 2022

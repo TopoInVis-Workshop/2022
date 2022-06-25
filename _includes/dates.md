@@ -4,7 +4,7 @@ Paper Abstracts
 : June 21, 2022
 
 Paper Submissions
-: June 25, 2022
+: <del>June 25, 2022</del> June 28, 2022
 
 Author Notifications
 : July 30, 2022
@@ -14,4 +14,4 @@ Camera-Ready Deadline
 
 ## Symposium
 
-**October 16, 2022**
+**October 15, 2022**

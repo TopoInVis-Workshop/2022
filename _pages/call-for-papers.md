@@ -68,7 +68,7 @@ Accepted papers will be published in the IEEE Xplore Digital Library.
 ## Important Dates
 
 * June 21, 2022: abstract deadline for full papers
-* June 25, 2022: submission deadline for full papers
+* <del>June 25, 2022</del> June 28, 2022: submission deadline for full papers
 * July 30, 2022: author notification
 * August 15, 2022: submission deadline for early-career lightning talk abstracts (500 words)
 * October 15-17, 2022: Workshop co-located with IEEE VIS
