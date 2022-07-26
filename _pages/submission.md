@@ -25,6 +25,12 @@ paper submission deadline is now extended to June 28. If you notice a discrepenc
 in the manuscript submission deadline on the PCS submission portal, kindly ignore 
 it. The time and date specified here on the website are correct. 
 
+## Abstract Submission for Early Career Lightning Talks
+
+For submission of abstracts for early-career lightning talks, please follow 
+[this link](https://forms.gle/YpkvNcDH1FyusqZX9) to submit the abstract and 
+answer a few questions about yourself.
+
 # Important Dates
 
 {::options parse_block_html="true" /}
@@ -38,3 +44,6 @@ June 28, 2022, 11:59 PM (AOE)
 
 July 30, 2022
 : Author notification
+
+August 15, 2022, 11:59 PM (AOE)
+: Early career talk abstract submission deadline
