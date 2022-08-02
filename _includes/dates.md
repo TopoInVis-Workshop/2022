@@ -14,4 +14,4 @@ Camera-Ready Deadline
 
 ## Symposium
 
-**October 15, 2022**
+**October 17, 2022**
