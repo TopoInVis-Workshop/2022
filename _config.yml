@@ -18,6 +18,8 @@ navigation:
    url: call-for-papers.html
  - title: Submission
    url: submission.html
+ - title: Accepted Papers
+   url: accepted-papers.html
  - title: Organization
    url: organization.html
 
