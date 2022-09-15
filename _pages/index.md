@@ -32,5 +32,4 @@ Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013
 Germany in 2015, Japan in 2017, and Sweden in 2019. This is the first workshop 
 to be held in conjunction with IEEE VIS.
 
-To attend TopoInVis, please register through the [IEEE VIS website]
-(http://ieeevis.org/year/2022/info/registration/conference-registration).
+To attend TopoInVis, please register through the [IEEE VIS website](http://ieeevis.org/year/2022/info/registration/conference-registration).
