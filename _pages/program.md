@@ -7,7 +7,9 @@ title: Program
 
 
 **Monday, October 17, 2022**
-(US Central Time)
+(US Central Time, UTC-5)
+
+Venue: Level Two of the Omni Oklahoma City Hotel, [Oklahoma Station 6](https://www.omnihotels.com/-/media/images/hotels/okcdtn/hotel/okcdtn-omni-oklahoma-city-floor-plans)
 
 <table class="program">
   <tr>
@@ -96,7 +98,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
       <ul>
         <li>
            Reduced Connectivity for Local Bilinear Jacobi Sets
-           <br><i>Daniel Klötzl, Tim Krake, Youjia Zhou, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
            <br/>
         </li>
         <li>
@@ -121,7 +123,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
       <ul>
         <li>
            ClassMat: a Matrix of Small Multiples to Analyze the Topology of Multiclass Multidimensional Data
-           <br><i>Michael Aupetit, Ahmed Ali, Abdelkader Baggag, Halima Bensmail</i>
+           <br><i>Micha&euml;l Aupetit, Ahmed Ali, Abdelkader Baggag, Halima Bensmail</i>
            <br/>
         </li>
         <li>
@@ -151,7 +153,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
         </li>
         <li>
            Subject-Specific Brain Activity Analysis in fMRI Data Using Merge Trees
-           <br><i>Farhan Rasheed, Daniel Jonsson, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
+           <br><i>Farhan Rasheed, Daniel J&ouml;nsson, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
            <br/>
         </li>
       </ul>
