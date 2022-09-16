@@ -134,7 +134,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
   </tr> 
   
   <tr>
-    <td>4:20pm &ndash; 4:55pm</td>
+    <td>4:34pm &ndash; 4:55pm</td>
     <td>
       <h4>Session: Applications</h4>
 <!--       (Session Chair: TDA) -->
