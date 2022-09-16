@@ -21,13 +21,28 @@ title: Program
     <td>
       <h4>Keynote Presentation
       </h4>
-      <i>Professor Robert Ghrist, University of Pennsylvania</i><br>
-      <b>TBA</b>
-      <br/>
-      <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
     </td>
   </tr>
-  
+</table>
+
+---
+
+**Title TBA**
+
+_Professor Robert Ghrist, University of Pennsylvania_
+
+Abstract TBA
+
+#### Speaker
+
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="https://www2.math.upenn.edu/~ghrist/images/profgheadshot.jpg" />
+Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell PIK Professor of Mathematics and Electrical & Systems Engineering at the University of Pennsylvania. He is a recognized leader in the field of Applied Algebraic Topology, working in sensor networks, robotics, signal processing, data analysis, optimization, and more. He is an award-winning researcher, teacher, and expositor of Mathematics and its applications. In his spare time, he enjoys animation and video production.
+
+<br>
+
+---
+
+<table class="program">
   <tr>
     <td>3:00pm &ndash; 3:15pm</td>
     <td>
@@ -177,20 +192,4 @@ title: Program
   </tr> 
 </table>  
 
----
 
-# Keynote
-
-**Title TBA**<br/>
-_Professor Robert Ghrist, University of Pennsylvania_
-
-Abstract TBA
-
-#### Speaker
-
-<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="https://www2.math.upenn.edu/~ghrist/images/profgheadshot.jpg" />
-Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell PIK Professor of Mathematics and Electrical & Systems Engineering at the University of Pennsylvania. He is a recognized leader in the field of Applied Algebraic Topology, working in sensor networks, robotics, signal processing, data analysis, optimization, and more. He is an award-winning researcher, teacher, and expositor of Mathematics and its applications. In his spare time, he enjoys animation and video production.
-
-<br>
-
----
