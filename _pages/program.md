@@ -49,11 +49,11 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:00pm &ndash; 3:15pm</td>
     <td>
       <h4>Session: Performance</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: TDA)
       <ul>
         <li>
            Fast Merge Tree Computation via SYCL
-           <br><i>Arnur Nigmetov, Dmitriy Morozov</i>
+           <br><i>Arnur Nigmetov, Dmitriy Morozov</i> (online)
            <br/>
         </li>
         <li>
@@ -74,7 +74,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:45pm &ndash; 3:59pm</td>
     <td>
       <h4>Session: Comparison</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: TDA)
       <ul>
         <li>
            Autoencoder-Aided Visualization of Collections of Morse Complexes
@@ -94,7 +94,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:59pm &ndash; 4:20pm</td>
     <td>
       <h4>Session: Bivariate and vector data</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: TDA)
       <ul>
         <li>
            Reduced Connectivity for Local Bilinear Jacobi Sets
@@ -103,12 +103,12 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
         </li>
         <li>
            Jacobi Set Driven Search for Flexible Fiber Surface Extraction
-           <br><i>Mohit Sharma, Vijay Natarajan</i>
+           <br><i>Mohit Sharma, Vijay Natarajan</i> (online)
            <br/>
         </li>
         <li>
            Discussion and Visualization of Distinguished Hyperbolic Trajectories as a Generalization of Critical Points to 2D Time-dependent Flow
-           <br><i>Roxana Bujack</i>
+           <br><i>Roxana Bujack</i> (online)
            <br/>
         </li>
       </ul>
@@ -119,11 +119,11 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>4:20pm &ndash; 4:34pm</td>
     <td>
       <h4>Session: Analytics</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: TDA)
       <ul>
         <li>
            ClassMat: a Matrix of Small Multiples to Analyze the Topology of Multiclass Multidimensional Data
-           <br><i>Micha&euml;l Aupetit, Ahmed Ali, Abdelkader Baggag, Halima Bensmail</i>
+           <br><i>Michael Aupetit, Ahmed Ali, Abdelkader Baggag, Halima Bensmail</i> (online)
            <br/>
         </li>
         <li>
@@ -139,7 +139,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>4:34pm &ndash; 4:55pm</td>
     <td>
       <h4>Session: Applications</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: Federico Iuricich)
       <ul>
         <li>
            Exploring Cyclone Evolution with Hierarchical Features
@@ -164,7 +164,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>4:55pm &ndash; 5:00pm</td>
     <td>
       <h4>Early career lightning talks</h4>
-<!--       (Session Chair: TDA) -->
+      (Session Chair: Federico Iuricich)
       <ul>
         <li>
            Raghavendra Sridharamurthy
