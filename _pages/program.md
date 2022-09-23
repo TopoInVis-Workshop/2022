@@ -11,6 +11,8 @@ title: Program
 
 Venue: Level Two of the Omni Oklahoma City Hotel, [Oklahoma Station 6](https://www.omnihotels.com/-/media/images/hotels/okcdtn/hotel/okcdtn-omni-oklahoma-city-floor-plans)
 
+---
+
 <table class="program">
   <tr>
     <td>2:00pm &ndash; 2:05pm</td>
@@ -49,7 +51,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:00pm &ndash; 3:15pm</td>
     <td>
       <h4>Session: Performance</h4>
-      (Session Chair: TDA)
+      (Session Chair: TBA)
       <ul>
         <li>
            Fast Merge Tree Computation via SYCL
@@ -74,7 +76,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:45pm &ndash; 3:59pm</td>
     <td>
       <h4>Session: Comparison</h4>
-      (Session Chair: TDA)
+      (Session Chair: TBA)
       <ul>
         <li>
            Autoencoder-Aided Visualization of Collections of Morse Complexes
@@ -94,7 +96,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:59pm &ndash; 4:20pm</td>
     <td>
       <h4>Session: Bivariate and vector data</h4>
-      (Session Chair: TDA)
+      (Session Chair: TBA)
       <ul>
         <li>
            Reduced Connectivity for Local Bilinear Jacobi Sets
@@ -119,7 +121,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>4:20pm &ndash; 4:34pm</td>
     <td>
       <h4>Session: Analytics</h4>
-      (Session Chair: TDA)
+      (Session Chair: TBA)
       <ul>
         <li>
            ClassMat: a Matrix of Small Multiples to Analyze the Topology of Multiclass Multidimensional Data
