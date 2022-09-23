@@ -153,7 +153,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
         </li>
         <li>
            Subject-Specific Brain Activity Analysis in fMRI Data Using Merge Trees
-           <br><i>Farhan Rasheed, Daniel J&ouml;nsson, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i>
+           <br><i>Farhan Rasheed, Daniel J&ouml;nsson, Emma Nilsson, Talha Bin Masood, Ingrid Hotz</i> (online)
            <br/>
         </li>
       </ul>
