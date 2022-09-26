@@ -51,7 +51,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:00pm &ndash; 3:15pm</td>
     <td>
       <h4>Session: Performance</h4>
-      (Session Chair: TBA)
+      (Session Chair: Brian Summa)
       <ul>
         <li>
            Fast Merge Tree Computation via SYCL
@@ -76,7 +76,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:45pm &ndash; 3:59pm</td>
     <td>
       <h4>Session: Comparison</h4>
-      (Session Chair: TBA)
+      (Session Chair: Brian Summa)
       <ul>
         <li>
            Autoencoder-Aided Visualization of Collections of Morse Complexes
