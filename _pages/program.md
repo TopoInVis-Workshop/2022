@@ -96,7 +96,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>3:59pm &ndash; 4:20pm</td>
     <td>
       <h4>Session: Bivariate and vector data</h4>
-      (Session Chair: TBA)
+      (Session Chair: Christoph Garth)
       <ul>
         <li>
            Reduced Connectivity for Local Bilinear Jacobi Sets
@@ -121,7 +121,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
     <td>4:20pm &ndash; 4:34pm</td>
     <td>
       <h4>Session: Analytics</h4>
-      (Session Chair: TBA)
+      (Session Chair: Christoph Garth)
       <ul>
         <li>
            ClassMat: a Matrix of Small Multiples to Analyze the Topology of Multiclass Multidimensional Data
