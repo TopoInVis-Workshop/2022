@@ -31,11 +31,16 @@ Venue: Level Two of the Omni Oklahoma City Hotel, [Oklahoma Station 6](https://w
 
 ---
 
-**Title TBA**
+**On the Visual Imagination**
 
 _Professor Robert Ghrist, University of Pennsylvania_
 
-Abstract TBA
+This will be an entertaining tour through the
+use of visualization in the intersection between
+topological and educational endeavors; a meditation
+on the role of both static and dynamic visualization;
+and the primacy of the visual imagination for spurring
+developments.
 
 #### Speaker
 
