@@ -105,7 +105,7 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
       <ul>
         <li>
            Reduced Connectivity for Local Bilinear Jacobi Sets
-           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
+           <br><i>Daniel Kl&ouml;tzl, Tim Krake, Youjia Zhou, Jonathan Stober, Kathrin Schulte, Ingrid Hotz, Bei Wang, Daniel Weiskopf</i>
            <br/>
         </li>
         <li>
