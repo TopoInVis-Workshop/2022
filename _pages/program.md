@@ -199,6 +199,14 @@ Robert Ghrist (Ph.D., Cornell, Applied Mathematics, 1995) is the Andrea Mitchell
 <!--       (Session Chair: TDA) -->
     </td>
   </tr> 
+  
+  <tr>
+    <td>6:00pm </td>
+    <td>
+      <h4>Informal Get-together Dinner at <a href="https://fasslerhall.com/locations/oklahoma-city/" target="new">Fassler Hall</a></h4>
+<!--       (Session Chair: TDA) -->
+    </td>
+  </tr> 
 </table>  
 
 
