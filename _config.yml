@@ -20,6 +20,8 @@ navigation:
    url: submission.html
  - title: Accepted Papers
    url: accepted-papers.html
+ - title: Awards
+   url: awards.html
  - title: Organization
    url: organization.html
 
